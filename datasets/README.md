@@ -1,4 +1,4 @@
-# Google IO Contest
+# event.json
 
 The data provided represents all Startup Weekend events that have happened or are planned to happen, as of 3/28/2013.  Each event contains the following information:
 
