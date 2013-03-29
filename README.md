@@ -1,5 +1,7 @@
 # The Startup Weekend I/O 2013 Challenge
 
+**Submit entry by April 8th**
+
 Build something cool with our data set and Google Developer Tools for a chance to attend Google I/O.
 
 *ONLY FOUR TICKETS LEFT*
